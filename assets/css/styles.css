@@ -1,6 +1,9 @@
            /*=============== GOOGLE FONTS ===============*/
 @import url("https://fonts.googleapis.com/css2?family=Butcherman&family=Poppins:wght@400;500;600;700&display=swap");
 
+/*=============== VARIABLES CSS ===============*/
+:root {
+  --header-height: 3.5rem;
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
   --first-color: hsl(22, 72%, 50%);
