@@ -1000,3 +1000,9 @@ img {
   }
 }
 
+@media screen and (min-width: 1072px){
+  .container{
+    margin-inline: auto;
+  }
+}
+
