@@ -321,3 +321,19 @@ img {
   right: -2rem;
 }
 
+/* Star animation */
+@keyframes animate-star-1 {
+  0%{
+    transform: scale(.7) rotate(-15deg);
+    opacity: .2;
+  }
+  50%{
+    transform: scale(1) rotate(-15deg);
+    opacity: 1;
+  }
+  100%{
+    transform: scale(.7) rotate(-15deg);
+    opacity: .2;
+  }
+}
+
